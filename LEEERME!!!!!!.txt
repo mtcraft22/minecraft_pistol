@@ -1,0 +1,7 @@
+arrastar la carpeta texturas_pistola a la carpeta resourcepacks
+arrastar la carpeta data_pistola a la carpeta datapacks de su mundo
+
+Licencia:
+1.- Acreditame como creador original si realizas cambios
+2.- No te lucres con esto
+3.- Si remoledas la bala y/o  la pistola estaré enternamente agradecido

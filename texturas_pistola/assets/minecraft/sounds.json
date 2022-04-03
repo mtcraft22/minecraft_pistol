@@ -1,0 +1,11 @@
+{
+	"disparo":
+		{
+			"category":"master","sounds":["disparo"]
+		},
+
+	"fallo":
+		{
+			"category":"block","sounds":["fallo"]
+		}
+}
